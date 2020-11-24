@@ -1,7 +1,7 @@
 printReceipt
 P: 5 mins
 D: 3 mins
-C: Completed with in the time
+C: Completed within the time
 A: Keep on and try to arrange a proper time
 
 getDistinctBarcodes
@@ -11,10 +11,10 @@ C: Not familar with Java
 A: Study and code more for better performance
 
 getDisplayReceipt
-P: 5 mins
-D: 5 mins
-C: Completed with in the time
-A: Keep on and try to arrange a proper time
+P: 10 mins
+D: 15 mins
+C: Spent too much time on debugging spacing
+A: Study and practise for better codes
 
 getItemInfo
 P: 5 mins
@@ -25,12 +25,12 @@ A: Study and code more for better performance
 getItemCount
 P: 5 mins
 D: 5 mins
-C: Completed with in the time
-A: Keep on and try to arrange a proper timece
+C: Completed within the time
+A: Keep on
 
 getItemLines
 P: 5 mins
 D: 5 mins
-C: Completed with in the time
-A: Keep on and try to arrange a proper time
+C: Completed within the time
+A: Keep on 
 
